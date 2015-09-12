@@ -11,6 +11,8 @@
 - Interesting Infrastructures
   - [Github](https://github.com/mcburton/)
   - [Jupyter Notebooks](http://jupyter.org)
+    - [literate programming](https://en.wikipedia.org/wiki/Literate_programming) -> [literate computing](http://blog.fperez.org/2013/04/literate-computing-and-computational.html)
+    - [Demo](https://try.jupyter.org/)
 
 
 - [Programming historian](http://programminghistorian.org/)
