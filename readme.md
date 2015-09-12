@@ -6,7 +6,7 @@
 
 
 
-- [Six degrees of francis bacon](http://www.6dfb.org/)
+- [Six degrees of Francis Bacon](http://www.6dfb.org/)
   
   - ![6dfb](http://www.constellations.pitt.edu/sites/default/files/field/blog/Laud5.jpeg)
   
