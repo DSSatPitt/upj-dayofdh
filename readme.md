@@ -15,14 +15,16 @@
   - ![dfr-browser](dfr-browser.png)
   
   ​
-  
-  ## Infrastructures
-  
-  - Github
-    - [Searching for “digital humanities”](https://github.com/search?utf8=%E2%9C%93&q=digital+humanities)
-  - [Jupyter Notebooks](http://jupyter.org)
-    - [literate programming](https://en.wikipedia.org/wiki/Literate_programming) -> [literate computing](http://blog.fperez.org/2013/04/literate-computing-and-computational.html)
-    - [Demo](https://try.jupyter.org/)
+
+## Infrastructures
+
+- [Scalar](http://scalar.usc.edu/features/flexible-structure/)
+  - [Performing Archive: Curtis + “the vanishing race”](http://scalar.usc.edu/works/performingarchive/index)
+- [Github](https://github.com/mcburton/)
+  - [Searching for “digital humanities”](https://github.com/search?utf8=%E2%9C%93&q=digital+humanities)
+- [Jupyter Notebooks](http://jupyter.org)
+  - [literate programming](https://en.wikipedia.org/wiki/Literate_programming) -> [literate computing](http://blog.fperez.org/2013/04/literate-computing-and-computational.html)
+  - [Demo](https://try.jupyter.org/)
 
 ## Pedagogy
 
@@ -33,7 +35,7 @@
 
 
 - [Computational Media](http://www.annettevee.com/2015fall_computationalmedia/)
-- - [How to make a Twitter bot](https://emerging.commons.gc.cuny.edu/2013/10/making-twitter-bot-python-tutorial/)
+  - [How to make a Twitter bot](https://emerging.commons.gc.cuny.edu/2013/10/making-twitter-bot-python-tutorial/)
 
 
 
