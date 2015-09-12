@@ -1,3 +1,9 @@
+# Emerging Topics and Approaches to Scholarship in the Digital Humanities
+
+#### University of Pittsburgh Johnstown Day of Digital Humanities
+
+
+
 - [Six degrees of francis bacon](http://www.6dfb.org/)
   - ![6dfb](http://www.constellations.pitt.edu/sites/default/files/field/blog/Laud5.jpeg)
 - [Topics in PMLA](http://agoldst.github.io/dfr-browser/demo/)
