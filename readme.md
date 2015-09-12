@@ -10,6 +10,7 @@
   - ![dfr-browser](dfr-browser.png)
 - Interesting Infrastructures
   - [Github](https://github.com/mcburton/)
+    - [Searching for “digital humanities”](https://github.com/search?utf8=%E2%9C%93&q=digital+humanities)
   - [Jupyter Notebooks](http://jupyter.org)
     - [literate programming](https://en.wikipedia.org/wiki/Literate_programming) -> [literate computing](http://blog.fperez.org/2013/04/literate-computing-and-computational.html)
     - [Demo](https://try.jupyter.org/)
