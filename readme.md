@@ -2,16 +2,20 @@
 
 #### University of Pittsburgh Johnstown Day of Digital Humanities
 
-## Projects
+
+
+- [Slides from Aaron Brenner’s presentation on Pedagogy & Implications for Practice](https://docs.google.com/presentation/d/1IV2FuVEoNlFfg3nKu-T9GdmQTbfrumSDAw22d2D0yu4/edit?usp=sharing)
+- [Slides from Nora Mattern’s presentation on Research Data Management](https://docs.google.com/presentation/d/1OYitPJp7mKh59Uk68RsAnSRsjGkuzbP4ZJQVGE4TZ5I/edit#slide=id.p4)
+
+
+
+## DH Projects
 
 
 
 - [Six degrees of Francis Bacon](http://www.6dfb.org/)
-  
-  - ![6dfb](http://www.constellations.pitt.edu/sites/default/files/field/blog/Laud5.jpeg)
-  
-- [Topics in PMLA](http://agoldst.github.io/dfr-browser/demo/)
-  
+  - ![6dfb](http://www.constellations.pitt.edu/sites/default/files/field/blog/Laud5.jpeg)  
+- [Topics in PMLA](http://agoldst.github.io/dfr-browser/demo/) 
   - ![dfr-browser](dfr-browser.png)
   
   ​
@@ -29,11 +33,7 @@
 ## Pedagogy
 
 - [Programming historian](http://programminghistorian.org/)
-
-
-- ![Programing Historian](prog-hist.png)
-
-
+  - ![Programing Historian](prog-hist.png)
 - [Computational Media](http://www.annettevee.com/2015fall_computationalmedia/)
   - [How to make a Twitter bot](https://emerging.commons.gc.cuny.edu/2013/10/making-twitter-bot-python-tutorial/)
 
